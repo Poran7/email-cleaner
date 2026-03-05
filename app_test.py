@@ -1,8 +1,8 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
 ║       🔥  SMART EMAIL CLEANER — WEB INTERFACE  🔥            ║
-║       Run: py -3.11 app.py                                 ║
-║       Then open: http://localhost:5000             ║
+║       Run: py -3.11 app.py                                   ║
+║       Then open: http://localhost:5000                       ║
 ╚══════════════════════════════════════════════════════════════╝
 """
 
